@@ -1,3 +1,5 @@
+#Oasis_Infobyte_Internship_Work
+
 The aforementioned repository encapsulates the culmination of my intensive internship tenure at Oasis Infobyte. During this transformative period, I had the opportunity to delve deep into the dynamic realm of data science, where I applied my skills and knowledge to address substantial challenges.
 
 My primary focus was on leveraging data-driven methodologies to extract valuable insights from diverse datasets. This involved a comprehensive exploration of data preprocessing techniques, feature engineering, and advanced statistical analysis. By harnessing the power of programming languages such as Python and R, I implemented cutting-edge algorithms to wrangle complex data, uncover patterns, and derive meaningful conclusions.
